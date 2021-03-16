@@ -4,7 +4,7 @@ variable "region" {
 
 
 ## need to add keypair name before going to another steps
-variable "keypair" {
-  default = "qw"
-}
+#variable "keypair" {
+#  default = "qw"
+#}
 
